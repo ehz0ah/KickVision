@@ -13,5 +13,5 @@ yolov8x.pt
 # trained models
 models/
 
-# training datasets
-training/
+# environment variables
+.env
