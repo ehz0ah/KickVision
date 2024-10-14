@@ -1,14 +1,11 @@
 # virtual environment
 cvenv/
 
-# results
-runs/
-
-# input videos
-input_videos/
-
 # YOLO v8 model
 yolov8x.pt
+
+# results
+runs/
 
 # trained models
 models/
