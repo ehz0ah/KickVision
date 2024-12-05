@@ -1,5 +1,5 @@
 # Virtual Environment
-cvenv/
+venv/
 
 # YOLO v8 model
 yolov8x.pt

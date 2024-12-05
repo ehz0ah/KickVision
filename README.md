@@ -29,9 +29,12 @@ This repository features a comprehensive computer vision and machine learning pr
 - Fine tuning and training of YOLO: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
 
 ## Iteration 1
-![image](https://github.com/user-attachments/assets/eeab2f46-6f5b-4348-a8fd-39a3b932a96f)
+![Iteration 1](images/iteration1.png)
 
 ## Iteration 2
-![image](https://github.com/user-attachments/assets/37486d08-f949-45d6-9261-330c510a6c95)
+![Iteration 2](images/iteration2.png)
+
+## Iteration 3
+![Iteration 3](images/iteration3.png)
 
 Work in progress...
