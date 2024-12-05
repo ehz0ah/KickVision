@@ -45,4 +45,9 @@ Check Out the Latest! [Download Latest Clip](https://github.com/ehz0ah/KickVisio
 
 ![Iteration 3](images/iteration3.png)
 
+## Iteration 4
+- Perform KMeans Clustering to separate players into their separate teams
+
+![Iteration 4](images/iteration4.png)
+
 Work in progress...
