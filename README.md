@@ -2,7 +2,7 @@
 
 This repository features a comprehensive computer vision and machine learning project dedicated to football analysis. It employs various cutting-edge techniques to provide detailed insights into player movements and actions.
 
-Check Out the Latest! [Download Latest Clip](https://github.com/ehz0ah/KickVision/tree/master/output_videos) 🎥
+Check out [this](https://github.com/ehz0ah/KickVision/tree/master/output_videos) video!🎥
 
 ## Features
 
