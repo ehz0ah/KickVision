@@ -14,6 +14,8 @@ def main():
                                       read_from_stubs=True,
                                       stub_path='stubs/track_stubs.pkl')
     
+    # Interpolate the ball position
+    tracks["ball"] = tracker.interpolate_ball_position(tracks["ball"])
     
     # Assign player team
     team_assigner = TeamAssigner()
