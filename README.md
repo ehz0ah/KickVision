@@ -59,4 +59,11 @@ Check out [this](https://github.com/ehz0ah/KickVision/tree/master/output_videos)
 
 ![Iteration 4](images/iteration4.png)
 
+## Iteration 5
+
+- Implement interpolation and back filling using Pandas to address occasional missing data for the ball tracker
+- Integrate a tracking mechanism (Red Triangle) to identify the player in possession of the ball
+
+![Iteration 5](images/iteration5.png)
+
 Work in progress...
