@@ -66,4 +66,10 @@ Check out [this](https://github.com/ehz0ah/KickVision/tree/master/output_videos)
 
 ![Iteration 5](images/iteration5.png)
 
+## Iteration 6
+
+- Added ball control statistics for respective teams (White = Team 1, Green = Team 2)
+
+![Iteration 6](images/iteration6.png)
+
 Work in progress...
