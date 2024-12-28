@@ -70,6 +70,15 @@ class CameraMovementEstimator():
 
         return camera_movement
     
+    def add_adjust_positions_to_trackers(self, tracks, camera_movement_per_frame):
+        for object, object_tracks in tracks.items():
+            for frame_num, track in enumerate(object_tracks):
+                for track_id, track_info in track.items():
+                    position = track_info['position']
+                    camera_movement = camera_movement_per_frame[frame_num]
+                    position_adjusted = (position[0] - camera_movement[0], position[1] - camera_movement[1])
+                    tracks[object][frame_num][track_id]['position_adjusted'] = position_adjusted
+
     def draw_camera_movement(self, frames, camera_movement_per_frame):
         output_frames = []
         for frame_num, frame in enumerate(frames):

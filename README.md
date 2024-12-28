@@ -37,32 +37,32 @@ Check out [this](https://github.com/ehz0ah/KickVision/tree/master/output_videos)
 
 ## Iteration 1
 
-- Utilise YOLOv8 for object detection
+- Utilised YOLOv8 for object detection
 
 ![Iteration 1](images/iteration1.png)
 
 ## Iteration 2
 
-- Fine tune YOLOv8 to accurately detect players, referees and ball while filtering out noise factors
+- Fine tuned YOLOv8 to accurately detect players, referees and ball while filtering out noise factors
 
 ![Iteration 2](images/iteration2.png)
 
 ## Iteration 3
 
-- Update players, referees and ball bounding box for easier tracking
+- Updated players, referees and ball bounding box for easier tracking
 
 ![Iteration 3](images/iteration3.png)
 
 ## Iteration 4
 
-- Perform KMeans Clustering to separate players into their separate teams
+- Performed KMeans Clustering to separate players into their separate teams
 
 ![Iteration 4](images/iteration4.png)
 
 ## Iteration 5
 
-- Implement interpolation and back filling using Pandas to address occasional missing data for the ball tracker
-- Integrate a tracking mechanism (Red Triangle) to identify the player in possession of the ball
+- Implemented interpolation and back filling using Pandas to address occasional missing data for the ball tracker
+- Integrated a tracking mechanism (Red Triangle) to identify the player in possession of the ball
 
 ![Iteration 5](images/iteration5.png)
 
@@ -71,5 +71,12 @@ Check out [this](https://github.com/ehz0ah/KickVision/tree/master/output_videos)
 - Added ball control statistics for respective teams (White = Team 1, Green = Team 2)
 
 ![Iteration 6](images/iteration6.png)
+
+## Iteration 7
+
+- Estimated camera movement using Optical Flow
+- Adjusted players' positions in relation to camera movement
+
+![Iteration 7](images/iteration7.png)
 
 Work in progress...
