@@ -79,4 +79,9 @@ Check out [this](https://github.com/ehz0ah/KickVision/tree/master/output_videos)
 
 ![Iteration 7](images/iteration7.png)
 
-Work in progress...
+# Iteration 8 (Final Iteration)
+
+- Integrated CV2's perspective transformation to accurately represent depth of each frame
+- Provided quantitative data (speed and distance) for each player
+
+![Iteration 8 (Final Iteration)](images/iteration8.png)
